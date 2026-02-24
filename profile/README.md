@@ -7,3 +7,4 @@ Pisi Linux projelerimize hoş geldiniz! Repolarımızı kategorilere göre filtr
 * **[Sistem Araçları (Tools)](https://github.com/orgs/pisilinux-3/repositories?q=topic:core-tools)** - Yapılandırma ve yönetim araçları.
 * **[Paketler (Packages)](https://github.com/orgs/pisilinux-3/repositories?q=topic:pisi-package)** - Pisi paketleme scriptleri ve dosyaları.
 * **[Tema & Görsellik](https://github.com/orgs/pisilinux-3/repositories?q=topic:pisi-theme)** - İkon setleri ve duvar kağıtları.
+* **[Grub2 Themes](https://github.com/orgs/pisilinux-3/repositories?q=topic:grub2-themes)** - İkon setleri ve duvar kağıtları.
