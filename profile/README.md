@@ -1,4 +1,4 @@
-# 🐧 Pisi Linux Geliştirme Merkezi
+# Pisi Linux Geliştirme Merkezi
 
 Pisi Linux projelerimize hoş geldiniz! Repolarımızı kategorilere göre filtrelemek için aşağıdaki bağlantıları kullanabilirsiniz:
 
